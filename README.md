@@ -3,7 +3,7 @@
 - Python
 - YOLOv8m
 ## Train Dataset
-Dataset_Size : 5491
+Dataset_Size : 82365
 ![Image](https://github.com/user-attachments/assets/096bf24a-66a1-43c9-94ec-3a68e53a0195)
 ## Train Result
 ![Image](https://github.com/user-attachments/assets/455ff333-8cce-4706-ba25-f34a8002d1fa)
